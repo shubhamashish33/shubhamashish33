@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamashish8@gmail.com**
 
-- 📄 Know about my experiences [https://shubhamashish33.github.io/aboutmev2/assets/files/Resume-2.pdf](https://shubhamashish33.github.io/aboutmev2/assets/files/Resume-2.pdf)
+- 📄 Know about my experiences [https://shubhamashish33.github.io/aboutmev2/assets/files/Resume-2.pdf](https://git.io/JMW22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
