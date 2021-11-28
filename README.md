@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Python**
 
-- 👨‍💻 All of my projects are available at [https://shubhamashish33.github.io/aboutmev2/](https://shubhamashish33.github.io/aboutmev2/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhamashish33.github.io/aboutmev2/)
 
 - 💬 Ask me about **Front-end Dev and UI UX**
 
 - 📫 How to reach me **shubhamashish8@gmail.com**
 
-- 📄 Know about my experiences [https://shubhamashish33.github.io/aboutmev2/assets/files/Resume-2.pdf](https://git.io/JMW22)
+- 📄 Know about my experiences [Resume](https://git.io/JMW22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
