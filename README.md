@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imaashish_" target="blank"><img src="https://img.shields.io/twitter/follow/imaashish_?logo=twitter&style=for-the-badge" alt="imaashish_" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Python**
+- 🌱 I’m currently learning **Front-End Dev, UI UX and Python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubhamashish33.github.io/aboutmev2/)
 
