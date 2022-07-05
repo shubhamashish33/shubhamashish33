@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px">, I'm Shubham Ashish</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="40px">, I'm Shubham Ashish</h1>
 <h3 align="center">A passionate Web Developer, Graphics and UI UX Designer who also knows coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamashish33&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamashish33" /> </p>
