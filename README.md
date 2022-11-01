@@ -12,11 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubhamashish33.github.io/aboutmev2/)
 
-- 💬 Ask me about **Front-end Dev and UI UX**
+- 💬 Ask me about **Programming, Frontend Dev and UI UX**
 
 - 📫 How to reach me **shubhamashish8@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://git.io/JMW22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamashish33&show_icons=true&theme=dark&locale=en&layout=compact" alt="shubhamashish33" /></p>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamashish33&theme=dark&show_icons=true&locale=en" alt="shubhamashish33" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubhamashish33&theme=dark&show_icons=true&locale=en" alt="shubhamashish33" /></p>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamashish33&theme=dark&" alt="shubhamashish33" /></p>
