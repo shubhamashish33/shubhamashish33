@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px">, I'm Shubham Ashish</h1>
-<h3 align="center">A passionate Web Developer, Graphics and UI UX Designer who also knows coding.</h3>
+<h3 align="center">A self-proclaimed Developer and Designer.</h3>
 
 [![@shubhamashish's Holopin board](https://holopin.me/shubhamashish)](https://holopin.io/@shubhamashish)
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/imaashish_" target="blank"><img src="https://img.shields.io/twitter/follow/imaashish_?logo=twitter&style=for-the-badge" alt="imaashish_" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Dev, UI UX and Python**
+- 🌱 I’m currently learning **Framework in Python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubhamashish33.github.io/aboutmev2/)
 
-- 💬 Ask me about **Programming, Frontend Dev and UI UX**
+- 💬 Ask me about **Development and Design**
 
 - 📫 How to reach me **shubhamashish8@gmail.com**
 
