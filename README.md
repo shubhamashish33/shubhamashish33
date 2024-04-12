@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Framework in Python**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shubhamashish33.github.io/aboutmev2/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-two-mu-42.vercel.app)
 
 - 💬 Ask me about **Development and Design**
 
