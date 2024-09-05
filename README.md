@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px">, I'm Shubham Ashish</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"></h1>
 <br>I'm Software Developer, with the experience of frontend development languages.
 
 
