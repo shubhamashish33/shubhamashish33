@@ -1,18 +1,150 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px"></h1>
-<br>I'm Software Developer, with the experience of frontend development languages.
+<div align="center">
 
 
-# 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamashish33&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamashish33&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamashish33&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hey, I'm Shubham Ashish 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamashish33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Full-Stack Software Engineer · FinTech · Angular Specialist · GenAI Builder
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhamashish33&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-ashish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.shubhamashish.xyz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamashish8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamashish33)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamashish33&style=for-the-badge&color=0891b2)
+![Followers](https://img.shields.io/github/followers/shubhamashish33?style=for-the-badge&color=0891b2)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Software Engineer** based in **Bangalore, India**, currently working at **Tata Consultancy Services** on enterprise FinTech products.
+
+With **2+ years of production experience**, I specialize in **Angular platform engineering**, **NgRx state management**, and **Java Spring Boot** backends. I'm currently building an **AI-powered policy assistant** for banking clients using RAG and Vector Search.
+
+📫 Reach me at **shubhamashish8@gmail.com** · 📍 Bangalore, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=reactivex&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### AI / GenAI
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7B2FBE?style=flat-square&logo=elastic&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamashish33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamashish33&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamashish33&theme=tokyonight&hide_border=false)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Splitzy](https://github-readme-stats.vercel.app/api/pin/?username=shubhamashish33&repo=Splitzy&theme=tokyonight)](https://github.com/shubhamashish33/Splitzy)
+[![json-comparator](https://github-readme-stats.vercel.app/api/pin/?username=shubhamashish33&repo=json-comparator&theme=tokyonight)](https://github.com/shubhamashish33/json-comparator)
+[![nexchat](https://github-readme-stats.vercel.app/api/pin/?username=shubhamashish33&repo=nexchat&theme=tokyonight)](https://github.com/shubhamashish33/nexchat)
+[![quick-note](https://github-readme-stats.vercel.app/api/pin/?username=shubhamashish33&repo=quick-note&theme=tokyonight)](https://github.com/shubhamashish33/quick-note)
+
+</div>
+
+### 🗂️ Project Highlights
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[Splitzy](https://github.com/shubhamashish33/Splitzy)** | Angular 20 · .NET · PostgreSQL | PWA, JWT + Google OAuth, standalone components, RxJS state management |
+| **[JSON Comparator](https://github.com/shubhamashish33/json-comparator)** | React · TypeScript | Custom deep-diff algorithm, 500ms debounced search, drag-and-drop UI |
+| **[NexChat](https://github.com/shubhamashish33/nexchat)** | React · Node.js · Socket.IO · MongoDB | Real-time bidirectional messaging, room-based WebSocket, message delivery pipeline |
+| **[Quick Note](https://github.com/shubhamashish33/quick-note)** | HTML · Chrome Extension API | Lightweight Chrome extension for instant note capture |
+
+---
+
+## 💼 Professional Impact @ TCS FinTech
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  📉 Dashboard load time:    4.2s  →  1.8s  (57% faster)  │
+│  📦 Redundant API calls:    reduced by 65% (NgRx Effects) │
+│  ✅ Unit test coverage:     85%+ across core modules      │
+│  🔄 Angular migrations:     15–20 libs  (v8 → v20)        │
+│  📄 RAG ingestion:          20–25 policy PDFs, 5 clients  │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 Currently Working On
+
+- 🤖 **AI Policy Assistant** — RAG pipeline ingesting banking compliance PDFs into a vector store for context-grounded query resolution
+- ⚡ **Angular 20 Migration** — Modernising legacy module federation to standalone component architecture
+- 🏗️ **Scalable Micro-frontend Architecture** — NgRx + lazy loading for independent team deployments
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Shubham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamashish33&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+_Open to interesting conversations about Angular architecture, FinTech engineering, or GenAI applications._
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubh-ashish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://portfolio.shubhamashish.xyz)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:shubhamashish8@gmail.com)
+
+---
+
+*"Code is not just instructions for machines — it's a design decision."*
+
+</div>
