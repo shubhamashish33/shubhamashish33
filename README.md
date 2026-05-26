@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamashish8@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamashish33&style=for-the-badge&color=0891b2)
-![Followers](https://img.shields.io/github/followers/shubhamashish33?style=for-the-badge&color=0891b2)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamashish33)
 
 </div>
 
