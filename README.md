@@ -2,7 +2,7 @@
 
 # Hi, I'm Shubham Ashish
 
-### Software Engineer | Angular & TypeScript | Java/Spring Boot | GenAI/RAG Builder
+### Software Engineer | Angular & TypeScript | Java & Spring Boot | GenAI/RAG Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-ashish/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.shubhamashish.xyz)
