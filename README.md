@@ -2,7 +2,7 @@
 
 # Hi, I'm Shubham Ashish
 
-### Full-Stack Software Engineer | Angular Specialist | GenAI/RAG Builder
+### Software Engineer | Angular & TypeScript | Java/Spring Boot | GenAI/RAG Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-ashish/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.shubhamashish.xyz)
@@ -17,7 +17,7 @@
 
 ## About
 
-I'm a software engineer based in Bangalore, India, with 2+ years of experience building production-grade web applications across frontend, backend, and platform integration.
+I'm a software engineer based in Bangalore, India, with 3+ years of experience building production-grade web applications across frontend, backend, and platform integration.
 
 Most of my work sits around Angular, TypeScript, NgRx, RxJS, Java, and Spring Boot. I enjoy owning features end to end: shaping the UI, designing state flows, wiring APIs, improving performance, and making the system easier for other engineers to build on.
 
